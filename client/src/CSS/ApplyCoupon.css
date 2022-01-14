@@ -1,0 +1,17 @@
+h1{
+    text-align: center;
+    color:red;
+}
+h3{
+    text-align: left;
+    color:green;
+}
+
+.applyCouponButton{
+    margin-top: 10px;
+    margin-left: 45%;
+}
+
+.cart{
+    margin-left: 10%;
+}
